@@ -1,11 +1,10 @@
-Set Identifier,Set ID,Player 1,Player 2,
-C,7650195,Hungrybox,S2J,
-D,7650196,Leffen,PewPewU,
-A,7650193,Armada,Numbers,
-B,7650194,Westballz,Lucky,"This set does not have data. The system is not perfect yet, sorry :("
-F,7650198,Hungrybox,Leffen,
-S,7650211,S2J,PewPewU,
-E,7650197,Armada,Lucky,
-R,7650210,Numbers,Westballz,
-U,7650213,Lucky,PewPewU,
-T,7650212,Leffen,Numbers,
+Set Identifier,Set ID,Player 1,Player 2,Winner
+C,7650195,Hungrybox,S2J,Hungrybox
+D,7650196,Leffen,PewPewU,Leffen
+A,7650193,Armada,Numbers,Armada
+F,7650198,Hungrybox,Leffen,Hungrybox
+S,7650211,S2J,PewPewU,PewPewU
+E,7650197,Armada,Lucky,Armada
+R,7650210,Numbers,Westballz,Numbers
+U,7650213,Lucky,PewPewU,PewPewU
+T,7650212,Leffen,Numbers,Leffen
