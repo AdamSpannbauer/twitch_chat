@@ -1,9 +1,9 @@
 library(tidyverse)
 library(stringr)
 
-irssi_to_csv("data/beyondthesummit_2017-03-05.log", 
-             "data/bts_chat_2017-03-05.csv", 
-             as.Date("2017-03-05"))
+irssi_to_csv("data/mew2king_2017-03-19.log", 
+             "data/m2k_chat_2017-03-19.csv", 
+             as.Date("2017-03-19"))
 
 irssi_to_csv <- function(log_file_in, csv_out, date=Sys.Date(), verbose=TRUE) {
   #read data

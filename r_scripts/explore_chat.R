@@ -5,9 +5,9 @@ library(png)
 
 pogchamp <- readPNG("images/PogChamp.png")
 poggrob  <- rasterGrob(pogchamp, interpolate=FALSE)
-
-qplot(1:10, 1:10, geom="blank") + 
-  annotation_custom(poggrob, xmin=1, xmax=3, ymin=1, ymax=3)
+#test grob
+# qplot(1:10, 1:10, geom="blank") + 
+#   annotation_custom(poggrob, xmin=1, xmax=3, ymin=1, ymax=3)
 
 chat_df <- read_csv("data/bts_chat_2017-03-05.csv",
                     col_types=cols(
